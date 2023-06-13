@@ -8,3 +8,5 @@ Working with Sinatra
 Comm with the server
 Rendering APIs
 Tables and Data
+Variables.   
+Iterations.
